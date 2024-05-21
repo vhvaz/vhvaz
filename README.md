@@ -13,7 +13,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/vhvaz" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/vhvaz" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:vitorhugov78@gmail.com" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -38,7 +38,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Vitor Hugo</code>, tenho 22 anos, moro em BH e sou estudante. Atualmente sou <code>estudante</code> do curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
+<i><b>Olá</b> :wave:, sou o <code>Vitor Hugo</code>, tenho 22 anos, moro em Belo Horizonte. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
