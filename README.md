@@ -77,7 +77,9 @@ Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar <br /
  <i><b>Visão de Futuro</b>
  <div align="justify">
 <p>
- Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.<br /> Meu objetivo é contribuir para projetos inovadores que possam impactar positivamente <br /> a vida das pessoas. <br />Acredito no poder da tecnologia para resolver problemas complexos e melhorar <br/> o mundo ao nosso redor.
+ <div>Estou sempre em busca de novos desafios e oportunidades para crescer <br /> na área de tecnologia.</div>
+  <br>Meu objetivo é contribuir para projetos inovadores que possam <br />impactar positivamente  a vida das pessoas.</div>
+  <br />Acredito no poder da tecnologia para resolver problemas complexos<br/> e melhorar o mundo ao nosso redor.
 
 </p>
 </div>
