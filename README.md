@@ -123,7 +123,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer na área de
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22mho6f7rstgrrg2pwrlifjii&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="300px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22mho6f7rstgrrg2pwrlifjii&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22mho6f7rstgrrg2pwrlifjii&count=10"/>
 </div>
 <div>
  
