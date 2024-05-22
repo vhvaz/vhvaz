@@ -54,7 +54,7 @@ Minha jornada com a tecnologia começou com um profundo interesse por computador
 -----
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="240px" height="420px"/>
+<img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="400px" height="520px" style="margin-left: 20px; margin-bottom: 20px;"/>
 
 <img height="20" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
 
@@ -68,7 +68,7 @@ Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quas
 </p>
 </div>
 
- <i><b>Visão de Futuro</b>
+<i><b>Visão de Futuro</b></i>
 
 <div align="justify">
 <p>
@@ -76,6 +76,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer na área de
 </p>
 </div>
 </div>
+
 
 -----
 
