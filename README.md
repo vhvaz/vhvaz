@@ -63,13 +63,13 @@ Minha jornada com a tecnologia começou com um profundo interesse por computador
 
 <div align="justify">
 <p> 
-Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre <br> estressar) e a manter a mente ativa:.<br />
+Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre estressar) e a manter a mente ativa:.<br />
  
-- **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição <br> que esses jogos proporcionam.<br />
+- **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição que esses jogos proporcionam.<br />
  
 - **Esportes:** Sou torcedor do Clube Atlético Mineiro (Galo doido) e torcedor <br> do Philadelphia Eagles.<br />
 
-- **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender <br> algo novo e aplicar esse conhecimento em projetos pessoais e acadêmicos.<br />
+- **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender algo novo e aplicar esse conhecimento em projetos pessoais e acadêmicos.<br />
 </p>
 
 </div>
