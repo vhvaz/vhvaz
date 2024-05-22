@@ -60,11 +60,11 @@ Minha jornada com a tecnologia começou com um profundo interesse por computador
 
 <div align="justify">
 <p>
-Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre <br> estressar) e a manter a mente ativa:
+Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre estressar) e a manter a mente ativa:
 
-- **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição que esses<br> jogos proporcionam.
-- **Esportes:** Sou torcedor do Clube Atlético Mineiro (Galo doido) e torcedor do Philadelphia <br> Eagles.
-- **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender algo novo e <br>aplicar esse conhecimento em projetos pessoais e acadêmicos.
+- **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição que esses jogos proporcionam.
+- **Esportes:** Sou torcedor do Clube Atlético Mineiro (Galo doido) e torcedor do Philadelphia Eagles.
+- **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender algo novo e aplicar esse conhecimento em projetos pessoais e acadêmicos.
 </p>
 </div>
 
@@ -72,7 +72,7 @@ Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quas
 
 <div align="justify">
 <p>
-Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.<br> Meu objetivo é contribuir para projetos inovadores que possam impactar positivamente a vida<br> das pessoas. Acredito no poder da tecnologia para resolver problemas complexos e melhorar o<br> mundo ao nosso redor.
+Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.<br> Meu objetivo é contribuir para projetos inovadores que possam impactar positivamente a vida das pessoas. Acredito no poder da tecnologia para resolver problemas complexos e melhorar o mundo ao nosso redor.
 </p>
 </div>
 </div>
@@ -119,11 +119,11 @@ Estou sempre em busca de novos desafios e oportunidades para crescer na área de
 </div>
 <div>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="300px" height="470px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/vhvazz" target="_blank"><img align="right" width="300px" height="470px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=vhvazz&width=400"/></a>
+<a href="https://www.last.fm/pt/user/vhvazz" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=vhvazz&width=400"/></a>
 </div>
 <div>
-<img alt="Spotify" width="300px" height="470px" src="https://spotify-github-profile.vercel.app/api/view?uid=22mho6f7rstgrrg2pwrlifjii&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="300px" height="470px" src="https://spotify-recently-played-readme.vercel.app/api?user=22mho6f7rstgrrg2pwrlifjii&count=10"/>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22mho6f7rstgrrg2pwrlifjii&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22mho6f7rstgrrg2pwrlifjii&count=10"/>
 </div>
 <div>
  
