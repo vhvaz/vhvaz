@@ -54,7 +54,7 @@ Minha jornada com a tecnologia começou com um profundo interesse por computador
 -----
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="240px" height="420px"/>
 
 <img height="20" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
 
