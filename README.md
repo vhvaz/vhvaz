@@ -53,30 +53,34 @@ Minha jornada com a tecnologia começou com um profundo interesse por computador
 
 -----
 
+
 <div>
-  <img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="400px" height="520px"/>
+<div>
+<img align="right" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
+</div>
 
-  <img height="20" alt="GIF" src="https://github.com/vhvaz/vhvaz/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
+<b>Meus interesses pessoais:</b>
 
-  <div align="justify">
-    <p>
-      Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre estressar) e a manter a mente ativa:
-      <br />
-      **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição que esses jogos proporcionam.
-      <br />
-      **Esportes:** Sou torcedor do Clube Atlético Mineiro (Galo doido) e torcedor do Philadelphia Eagles.
-      <br />
-      **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender algo novo e aplicar esse conhecimento em projetos pessoais e acadêmicos.
-    </p>
-  </div>
+<div align="justify">
+<p> 
+Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar (quase sempre<br />estressar) e a manter a mente ativa:.<br />
+ 
+- **Jogos:** League of Legends, Valorant e CS2. Gosto da estratégia e da competição<br /> que esses jogos proporcionam.<br />
+ 
+- **Esportes:** Sou torcedor do Clube Atlético Mineiro (Galo doido) e torcedor <br /> do Philadelphia Eagles.<br />
 
-  <i><b>Visão de Futuro</b></i>
+- **Tecnologia:** Continuo explorando novas tecnologias, sempre buscando aprender <br /> algo novo e aplicar esse conhecimento em projetos pessoais e acadêmicos.<br />
+</p>
 
-  <div align="justify">
-    <p>
-      Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.<br> Meu objetivo é contribuir para projetos inovadores que possam impactar positivamente a vida das pessoas. Acredito no poder da tecnologia para resolver problemas complexos e melhorar o mundo ao nosso redor.
-    </p>
-  </div>
+</div>
+
+ <i><b>Visão de Futuro</b>
+ <div align="justify">
+<p>
+ Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.<br /> Meu objetivo é contribuir para projetos inovadores que possam impactar positivamente <br /> a vida das pessoas. <br />Acredito no poder da tecnologia para resolver problemas complexos e melhorar <br/> o mundo ao nosso redor.
+
+</p>
+</div>
 </div>
 
 -----
