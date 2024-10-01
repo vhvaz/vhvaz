@@ -98,12 +98,17 @@ Fora do ambiente acadêmico, tenho vários hobbies que me ajudam a relaxar <br /
 &nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp; 
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+
 
 -----
 
