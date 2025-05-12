@@ -38,7 +38,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Vitor Hugo</code>, tenho 22 anos, moro em Belo Horizonte. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva.</a>
+<i><b>Olá</b> :wave:, sou o <code>Vitor Hugo</code>, tenho 23 anos, moro em Belo Horizonte. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva.</a>
 </div>
 
 -----
